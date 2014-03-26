@@ -2,13 +2,12 @@ Ruby Gem Workflow for Alfred 2
 ==============================
 
 Alfred Workflow for working with Rubygems.org
-* version 0.1.0
+* version 0.1.1
 
 ## Usage
 * `gem s sinatra` => searches 'sinatra' on rubygems.org
 * `gem g sinatra` => goes to the sinatra page on rubygems.org
-* `gem c sinatra` => copies the gemfile requirement to the clipboard
-**			 	        => gem 'sinatra', '~> 1.4.4'
+* `gem c sinatra` => copies most recent non-prerelease gemfile spec to the clipboard => gem 'sinatra', '~> 1.4.4'
 
 ## Download
 
