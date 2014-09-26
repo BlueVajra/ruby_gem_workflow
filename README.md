@@ -10,7 +10,8 @@ Alfred Workflow for working with Rubygems.org
 * `gem c sinatra` => returns list of gemfile versions. 
   * `Press Enter` => copies most recent gemfile* spec to the clipboard
   * `Press Cmd + Enter` => pastes most recent gemfile* spec to the top app
-* i.e. gem 'sinatra', '~> 1.4.4'
+
+*i.e. gem 'sinatra', '~> 1.4.4'
 
 *non-prerelease 
 
@@ -35,6 +36,6 @@ This is my first workflow, so if you have any problems, please let me know. I wi
 
 ## Revision History
 
-* '0.2.0' 9-25-2014 - 'gem c' now returns list of gemfile version for user to select
+* `0.2.0` 9-25-2014 - `gem c` now returns list of gemfile version for user to select
 * `0.1.1` 3-26-2014 - `gem c` now returns most recent non-pre-release declaration
 * `0.1.0` 3-26-2014 - First go at this
